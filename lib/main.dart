@@ -12,7 +12,7 @@ class HangmanApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Jwèt Panch',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 58, 169, 183)),
         useMaterial3: false,
       ),
       home: MonApp(),

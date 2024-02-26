@@ -1,5 +1,17 @@
 # hangman
 
+Les membres du groupe:
+1-Kalancia ST MARTIN
+2-Wilkens BADIO
+3-Elischama DORY
+4-Samuel OVIDE
+5-Ricardo AMAZAN
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
