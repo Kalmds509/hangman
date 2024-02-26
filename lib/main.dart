@@ -29,7 +29,7 @@ class MonApp extends StatefulWidget {
 
 class _MonAppState extends State<MonApp> {
   final Map<String, String> mots = {
-    "Flutter": "Yon platfòm pou kreye aplikasyon andwad oswa ios",
+    "Flutter": "Yon platfòm pou kreye aplikasyon andwad oswa IOS",
     "Pomme": "yon fwi ki bèl anpil.",
     "Voiture": "Yon mwayen transpò a kat pye.",
     "Ordinateur": "Yon aparèy elektwonik ki sèvi pou tretman enfòmasyon.",
